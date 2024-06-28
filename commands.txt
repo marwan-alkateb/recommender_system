@@ -1,0 +1,3 @@
+#TODO: How to run the python Interpreter / environment ?
+venv\Scripts\activate
+
