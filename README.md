@@ -55,8 +55,8 @@ CourseRecommenderSystem/
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/CourseRecommenderSystem.git
-    cd CourseRecommenderSystem
+    git https://github.com/marwan-alkateb/recommender_system.git
+    cd recommender_system
     ```
 
 2. **Create a virtual environment:**
@@ -85,7 +85,7 @@ To run the Course Recommender System, follow these steps:
 
 1. Open terminal and navigate to the project folder:
     ```sh
-    cd CourseRecommenderSystem
+    cd recommender_system
     ```
 
 2. Make sure that the virtual environment is created and all requirements are satisfied:
