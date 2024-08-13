@@ -127,6 +127,10 @@ The following machine learning models are implemented in this project:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Streamlit App
+
+Access the Streamlit app here: [https://course-recommender-system.streamlit.app/](https://course-recommender-system.streamlit.app/)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
